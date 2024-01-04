@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact name="HotJsonFixService.main:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HotJsonFixService_main_jar</output-path>
+    <root id="root">
+      <element id="archive" name="HotJsonFixService.main.jar">
+        <element id="module-output" name="HotJsonFixService.main" />
+      </element>
+      <element id="library" level="project" name="Gradle: com.melloware:jintellitype:1.4.1" />
+      <element id="library" level="project" name="Gradle: com.google.code.gson:gson:2.10.1" />
+      <element id="library" level="project" name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.16.0" />
+      <element id="library" level="project" name="Gradle: com.fasterxml.jackson.core:jackson-core:2.16.0" />
+      <element id="library" level="project" name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.16.0" />
+    </root>
+  </artifact>
+</component>

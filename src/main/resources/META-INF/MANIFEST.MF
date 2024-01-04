@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: gr.novidea.Main
+Class-Path: jintellitype-1.4.1.jar gson-2.10.1.jar jackson-databind-2.16
+ .0.jar jackson-core-2.16.0.jar jackson-annotations-2.16.0.jar
+
